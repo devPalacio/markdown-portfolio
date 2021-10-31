@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of George Washington crossing the Delaware](http://www.artnet.com/WebServices/images/ll00007lldDv9GFg7oeR3CiDfDrCWvaHBOcQ6YE/emanuel-leutze-washington-crossing-the-delaware.jpg)
